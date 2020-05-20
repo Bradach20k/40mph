@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,14 +15,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Reading at Forty Miles Per Hour
-email: brady.allen.woods@gmail.com
 description: >
   textual meditations on momentum in texts
 tagline: castigat ridendo mores
-location: Denver
 date: true
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "Bradach20k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/40mph" # the subpath of your site, e.g. /blog
+url: "https://bradach20k.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Brady Niemitalo Woods
 google_analytics: UA-101394056-1
 
@@ -36,11 +35,8 @@ lang: en
 
 
 social:
-  name: Brady Niemitalo Woods
-  links:
-    - https://twitter.com/jdatap
-    - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+  name: Brady
+
 
 # Build settings
 exclude: README.md
