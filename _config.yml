@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -19,7 +20,11 @@ description: >
 tagline: castigat ridendo mores
 date: true
 baseurl: "/40mph" # the subpath of your site, e.g. /blog
-url: "https://bradach20k.github.io/40mph/" # the base hostname & protocol for your site, e.g. http://example.com
+<<<<<<< HEAD
+url: "https://bradach20k.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+url: "https://bradach20k.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> c6e8faa612c051e0a22abacaf171eaf1b68084ad
 author: Brady Niemitalo Woods
 google_analytics: UA-101394056-1
 
