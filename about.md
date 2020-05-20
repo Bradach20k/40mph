@@ -15,9 +15,11 @@ The phrase *reading at 40mph* is based on this passage from Henry Brokmeyer's ex
 
 Our need to find quietude in a world of ever-increasing speed has become something of cliché, perhaps, and the pursuit is as old as antiquity. It may seem Brokmeyer makes an elementary mistake, seeking such quietude in theory, instead of in some form of contemplative practice. Who finds quietude in Hegel, the philosopher of modernity *par excellence*?  
 
+I do not know, but this blog is an attempt at quietude through contemplative practice. The focus: literature and philosophy on the conceptual space between political economy and moral psychology. Our primary guides: Aristotle, Hegel, Marx, Weil. 
+
 ##### Who am I?
 
-Hi, I'm Brady. I'm a library worker in the Denver area. If you find any additional insight into I am, please contact me to let me know: beyond this I am as confused as you are. 
+Hi, I'm Brady. If you find any additional insight into who I am, please contact me to let me know: otherwise, I am as confused as you are. I am available at Brady dot Allen dot Woods at gmail period com.
 
 ##### Who's responsible for the theme?
 John Coene designed this theme, Marat, based on the French radical newspaper. Check it out [here](https://github.com/JohnCoene/marat). 
