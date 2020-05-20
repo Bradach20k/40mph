@@ -45,7 +45,8 @@ social:
 # Build settings
 exclude: README.md
 markdown: kramdown
-theme: minima
+remote_theme: JohnCoene/marat
+#theme: marat
 gems:
   - jekyll-feed
   - jekyll-seo-tag
